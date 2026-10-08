@@ -1,0 +1,12 @@
+# Bỏ qua các file thực thi và file build
+*.exe
+*.o
+*.out
+
+# Bỏ qua các file log và file nén coverage vừa nãy
+*.log
+*.tar.gz
+test.txt
+
+# Bỏ qua cấu hình thư mục VS Code (nếu có)
+.vscode/
